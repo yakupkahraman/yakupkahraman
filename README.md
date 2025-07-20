@@ -6,10 +6,20 @@ I'm a passionate **Computer Science student** and **Software Engineer** with a f
 
 ## 🚀 Skills & Tools
 
-- **Flutter** – Building cross-platform mobile apps
-- **Dart** – Clean, efficient code for scalable applications
-- **Linux** – Power user and open source enthusiast
-- **Git & GitHub** – Version control and collaboration
+<p align="left">
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  </a>
+  <a href="https://dart.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  </a>
+  <a href="https://www.linux.org" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
@@ -35,8 +45,6 @@ I'm a passionate **Computer Science student** and **Software Engineer** with a f
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-
 <!--
 **yakupkahraman/yakupkahraman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
