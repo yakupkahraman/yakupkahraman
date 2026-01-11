@@ -13,8 +13,14 @@ I'm a passionate **Computer Science student** and **Software Engineer** with a f
   <a href="https://dart.dev" target="_blank">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  </a>
   <a href="https://www.linux.org" target="_blank">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </a>
   <a href="https://github.com" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -44,7 +50,7 @@ I'm a passionate **Computer Science student** and **Software Engineer** with a f
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Everything started with a 'hello world'” – Yakup Kahraman
 <!--
 **yakupkahraman/yakupkahraman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
