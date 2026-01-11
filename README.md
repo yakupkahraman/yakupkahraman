@@ -40,7 +40,7 @@ I'm a passionate **Computer Science student** and **Software Engineer** with a f
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yakup-kahraman)
-- [Personal Website](https://yakupkahraman.github.io)
+- [Personal Website](https://yakupkahraman.com)
 
 ---
 
