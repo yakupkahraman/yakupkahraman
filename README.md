@@ -49,8 +49,6 @@ I'm a passionate **Computer Science student** and **Software Engineer** with a f
   </a>
 </p>
 
-<br>
-
 ---
 
 ![Yakup's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yakupkahraman&show_icons=true&theme=radical)
