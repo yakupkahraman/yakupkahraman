@@ -2,6 +2,10 @@
 
 I'm a passionate **Computer Science student** and **Software Engineer** with a focus on building beautiful and efficient mobile apps using **Flutter**. I love open source, Linux, and crafting solutions that make life easier.
 
+🌱 **Currently learning:** Advanced Flutter techniques · Backend integration for mobile apps · Linux system internals
+
+🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/yakup-kahraman) · [Personal Website](https://yakupkahraman.com)
+
 ---
 
 ## 🚀 Skills & Tools
@@ -61,21 +65,6 @@ I'm a passionate **Computer Science student** and **Software Engineer** with a f
     <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
   </a>
 </p>
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Flutter techniques
-- Backend integration for mobile apps
-- Exploring more about Linux system internals
-
----
-
-## 🔗 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/yakup-kahraman)
-- [Personal Website](https://yakupkahraman.com)
 
 ---
 
