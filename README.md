@@ -2,50 +2,33 @@
 
 I'm a passionate **Computer Science student** and **Software Engineer** with a focus on building beautiful and efficient mobile apps using **Flutter**. I love open source, Linux, and crafting solutions that make life easier.
 
-🌱 **Currently learning:** Advanced Flutter techniques · Backend integration for mobile apps · Linux system internals
+🌱 **Currently learning:** Advanced Flutter techniques · Backend integration for mobile apps · working on DevOps · Linux system internals
 
 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/yakup-kahraman) · [Personal Website](https://yakupkahraman.com)
 
 ---
 
-## 🚀 Skills & Tools
+###  Languages & Tools
 
-**Languages**
-
-<p align="left">
+<p align="center">
   <a href="https://dart.dev" target="_blank">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   </a>
-</p>
-
-**Frameworks**
-
-<p align="left">
   <a href="https://flutter.dev" target="_blank">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   </a>
   <a href="https://riverpod.dev" target="_blank">
     <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider"/>
   </a>
-</p>
-
-**Backend & Database**
-
-<p align="left">
   <a href="https://firebase.google.com" target="_blank">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   </a>
   <a href="https://supabase.com" target="_blank">
     <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
   </a>
-</p>
-
-**Tools & Platforms**
-
-<p align="left">
   <a href="https://www.linux.org" target="_blank">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   </a>
@@ -66,9 +49,9 @@ I'm a passionate **Computer Science student** and **Software Engineer** with a f
   </a>
 </p>
 
----
+<br>
 
-## 📈 GitHub Stats
+---
 
 ![Yakup's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yakupkahraman&show_icons=true&theme=radical)
 
