@@ -51,10 +51,6 @@ I'm a passionate **Computer Science student** and **Software Engineer** with a f
 
 ---
 
-![Yakup's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yakupkahraman&show_icons=true&theme=radical)
-
----
-
 > "Everything started with a 'hello world'" – Yakup Kahraman
 
 <!--
