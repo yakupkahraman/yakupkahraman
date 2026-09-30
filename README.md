@@ -4,8 +4,6 @@ I'm a passionate **Computer Science student** and **Software Engineer** with a f
 
 🌱 **Currently learning:** Advanced Flutter techniques · Backend integration for mobile apps · working on DevOps · Linux system internals
 
-🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/yakup-kahraman) · [Personal Website](https://yakupkahraman.com)
-
 ---
 
 ###  Languages & Tools
