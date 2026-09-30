@@ -2,7 +2,7 @@
 
 I'm a passionate **Computer Science student** and **Software Engineer** with a focus on building beautiful and efficient mobile apps using **Flutter**. I love open source, Linux, and crafting solutions that make life easier.
 
-🌱 **Currently learning:** Advanced Flutter techniques · Backend integration for mobile apps · working on DevOps · Linux system internals
+🌱 **Currently learning:** Web3 and Blockchain technologies · working on DevOps · Linux system internals
 
 ---
 
